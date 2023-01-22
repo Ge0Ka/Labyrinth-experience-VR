@@ -1,7 +1,7 @@
 # A-FRAME LABYRINTH EXPERIENCE VR
 
 ## Descripción
-En la experiencia del laberinto empiezas en la zona azul, en el exterior del laberinto y tienes que atraverlo hasta la zona roja al otro lado.
+En la experiencia del laberinto empiezas en la zona azul, en el exterior del laberinto y tienes que atravesarlo hasta la zona roja al otro lado.
 
 ## Componentes
 Se han usado gltf-model para el laberinto y la maya de navmesh que impide que la camera salga del camino designado. Hand tracking como medidor de colisión. Light para  dar iluminación.
